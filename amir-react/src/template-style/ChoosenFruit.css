@@ -1,0 +1,78 @@
+*{
+  font-size: 20px
+
+}
+body{
+  color : #ffffff;
+  text-align : center;
+  background-image : url(../../public/Image-Icon/endless-constellation.svg) ;
+  background-attachment : fixed;
+  overflow-x : hidden;
+}
+.ChangeNumber{
+  font-size : 60px
+}
+.VisibleButton{
+  width: 47px;
+  height:47px;
+
+  color: #0DCAF0
+
+}
+.DisableClick{
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+
+
+
+.PictureDiv-1-1{
+  visibility:hidden;
+}
+.PictureDiv-1-2{
+      height: 68%;
+      width: 100%;
+      top: 78px;
+      left: 0px;
+  position: absolute;
+}
+
+.PictureDiv-2-2{
+  height: 90%;
+  width: 50%;
+  top: 15px;
+  left: 80px;
+  position: absolute;
+}
+
+.PictureDiv-3-2{
+  height: 90%;
+  width: 50%;
+  top: 20px;
+  left: 80px;
+  position: absolute;
+}
+
+.PictureDiv-4-2{
+  height: 30%;
+  width: 30%;
+  top: 63px;
+  left: 180px;
+  position: absolute;
+}
+
+.PictureDiv-5-2{
+  height: 88%;
+  width: 88%;
+  top: 46px;
+  left: 108px;
+  position: absolute;
+}
+
+.PictureDiv-6{
+  position: relative;
+  margin: auto;
+  height: 246px;
+  width: 35%;
+  }
